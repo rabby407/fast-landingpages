@@ -1,0 +1,59 @@
+
+.fast {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+
+    height: 234px;
+    left: 100px;
+    top: 260px;
+    
+}
+.fast h1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 130%;
+    color: 
+    #575757S
+    #575757;
+}
+.text {
+    
+    background: -webkit-linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+
+}
+.fast p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    margin: 50px;
+
+
+    letter-spacing: -0.02em;
+
+    color: #828282;
+
+}
+.fast a {
+    background-color: aqua;
+    padding: 15px 35px;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 700px;
+    text-decoration: none;
+
+
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+}
+
+.tow {
+    margin-right: 50px;
+}
